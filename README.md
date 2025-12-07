@@ -29,8 +29,7 @@
   <a href="https://linkedin.com/in/aditya-chourasia09" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:aditya.work.00@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:aditya.chourasia.work@gmail.com" target="_blank">    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <br><br>
   <img src="https://img.shields.io/badge/FOLLOWERS-1-blue?style=for-the-badge" alt="Followers" />
