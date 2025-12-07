@@ -4,7 +4,7 @@
 
 <div align="center">
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=🎮+Hackathon+Junkie;🚀+Pac-Man+Speedrunner;💀+Code+Breaker;🐛+Bug+Creator;⚡+Team+XOR+Champion" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=🎮+Hackathon+Junkie;🧑‍💻+Hackathon Regular;💀+Code+Breaker;🐛+Bug+Creator;⚡🤝+Active Collaborator;" alt="Typing SVG" />
   </p>
 </div>
 
