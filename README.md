@@ -1,14 +1,23 @@
 <div align="center">
-  <h1>👋 Hey, I'm Aditya!</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFD700,FF6B9D,4ECDC4&height=250&section=header&text=👋%20Hey,%20I'm%20Aditya!&fontSize=60&fontColor=fff&animation=twinkling&stroke=2&strokeColor=fff" alt="Header" />
+</div>
+
+<div align="center">
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hackathon+Junkie;Pac-Man+Speedrunner;Code+Breaker;Bug+Creator;Team+XOR+Member" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=🎮+Hackathon+Junkie;🚀+Pac-Man+Speedrunner;💀+Code+Breaker;🐛+Bug+Creator;⚡+Team+XOR+Champion" alt="Typing SVG" />
   </p>
 </div>
 
-<!-- Pac-Man Animation Effect -->
+---
+
+<!-- Epic Pac-Man Game Animation with Commits and PRs -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/proximaditya/proximaditya/main/pacman-animation.svg" width="280" alt="Pac-Man Animation" />
+  <h2>🎮 The Commit Quest: A Pac-Man Adventure 👾</h2>
+  <img src="https://raw.githubusercontent.com/proximaditya/proximaditya/main/pacman-animation.svg" width="350" alt="Pac-Man chasing commits" />
+  <p><i>Pac-Man hunting for commits 🟡 while dodging PR bots 🤖 and collecting pull requests 📥</i></p>
 </div>
+
+---
 
 <!-- Stats and Links -->
 <div align="center">
@@ -36,28 +45,49 @@
 <div align="left">
 
 ```
-💻 Romantic about clean code
-🎯 Toxic in commit messages  
+💻 Romantic about clean code & architecture
+🎯 Toxic in commit messages (sorry, not sorry)
 ⚡ Allergic to boring solutions
-🏆 Team XOR: Multi-Prize Hackathon Winner
+🏆 Team XOR: Multi-Prize Hackathon Champion
 🎪 Turn ideas into demos in hours
-🚀 Speed Runner in Hackathons
+🚀 Speed Runner in Hackathons & Coding Challenges
+🔥 Passionate about building "the next big thing"
 ```
 
 </div>
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ My Tech Arsenal
 
+### 🌐 **Web & Frontend**
 | Category | Technologies |
 |----------|---------------|
-| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,java" alt="Languages" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" alt="Backend" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" alt="Databases" /> |
-| **Tools & DevOps** | <img src="https://skillicons.dev/icons?i=git,docker,github,linux,vscode" alt="Tools" /> |
-| **Cloud & AI/ML** | <img src="https://skillicons.dev/icons?i=aws,gcp,tensorflow,pytorch" alt="Cloud & AI" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,java,typescript" alt="Languages" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nextjs" alt="Frontend" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,deno" alt="Backend" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,supabase,firebase" alt="Databases" /> |
+
+### 🚀 **DevOps & Deployment**
+| Category | Technologies |
+|----------|---------------|
+| **Version Control** | <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="VC" /> |
+| **Deployment** | <img src="https://skillicons.dev/icons?i=vercel,netlify,docker,aws,gcp" alt="Deployment" /> |
+| **CI/CD & Tools** | <img src="https://skillicons.dev/icons?i=githubactions,jenkins,vscode,linux,bash" alt="CI/CD" /> |
+
+### 🤖 **AI/ML & Data Science**
+| Category | Technologies |
+|----------|---------------|
+| **ML Frameworks** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,python" alt="ML" /> |
+| **AI Specialties** | **LLM** • **RAG** • **DNN** • **RNN** • **ANN** • **OpenCV** • **Scikit-Learn** • **OCR** |
+| **AI Platforms** | Hugging Face • HF Transformers • HF Datasets |
+
+### 🔐 **Security & APIs**
+| Category | Technologies |
+|----------|---------------|
+| **Authentication** | JWT • OAuth2 • Session Management |
+| **API Dev** | RESTful APIs • GraphQL • API Security |
+| **Protocols** | HTTP/HTTPS • WebSockets • gRPC |
 
 ---
 
@@ -67,27 +97,34 @@
 
 - 🔥 **Hackathons** - Where ideas meet caffeine and sleep becomes a legend
 - 🤖 **AI/ML Projects** - Teaching machines to be smarter than bugs in my code
+- 🧠 **LLM & RAG Systems** - Building intelligent agents that actually understand context
 - 💎 **Clean Code** - Making future me proud (and less confused)
-- 🚀 **Full-Stack Development** - From pixels to databases, I got it
+- 🚀 **Full-Stack Development** - From pixels to databases, I got it all
 - ⚙️ **System Architecture** - The behind-the-scenes magic that makes things go "brrr"
+- 👁️ **Computer Vision** - Making machines see and understand
+- 🌊 **Cutting-Edge AI** - Always exploring what's new on arXiv
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=proximaditya&show_icons=true&theme=radical&hide=contribs,prs" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=proximaditya&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=proximaditya&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=proximaditya&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=proximaditya&theme=radical&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies & Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=proximaditya&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=proximaditya&theme=radical&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -96,15 +133,19 @@
 
 <div align="left">
 
-### **Team XOR** - The code rebels:
-- 🏆 **Multiple hackathon prizes** 
-- ⚡ **Rapid prototyping specialists**
-- 🎯 **Weekend warriors who ship products**
-- 🔬 **Explored cutting-edge technologies:**
-  - 🤖 AI/ML Solutions
-  - 🌐 Web Applications
-  - 🏗️ System Design
-  - 📱 Mobile Apps
+### **Team XOR** - The Code Rebels & Innovation Squad 🔥
+- 🏆 **Multiple Hackathon Prizes** across different competitions
+- ⚡ **Rapid Prototyping Specialists** - Ship MVPs at lightning speed
+- 🎯 **Weekend Warriors** - Turn ideas into production in 48 hours
+- 🚀 **Tech Explorers** - Always experimenting with cutting-edge tech
+
+**Explored Technologies:**
+- 🤖 AI/ML Solutions (LLMs, RAG, Computer Vision)
+- 🌐 Full-Stack Web Applications
+- 🏗️ System Design & Architecture
+- 📱 Mobile Apps (Cross-platform)
+- ☁️ Cloud-Native Development
+- 🔐 Security-First Development
 
 </div>
 
@@ -113,36 +154,54 @@
 ## 📚 Featured Projects
 
 <div align="center">
-  <p><i>Coming soon... (Setting up the showcase of epic builds) 🚀</i></p>
+  <p><i>🚀 Coming soon... (Building the next unicorn startup) 🦄</i></p>
+  <p><b>Currently shipping:</b> Multiple AI/ML experiments + Full-stack web projects</p>
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-chourasia09)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/proximaditya)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.work.00@gmail.com)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
   
 </div>
 
 ---
 
+## 🎮 Developer Vibes & Random Facts
+
 <div align="center">
-  <h2>🎮 Fun Facts</h2>
+  <h3>🎯 The Legend Says:</h3>
   <p>
-    <b>"Debug code at 3 AM and it somehow works 🤷"</b>
+    <b>"Debug code at 3 AM and it somehow works 👑"</b>
     <br>
-    <b>"Hackathon Mode: ON ⚡"</b>
+    <b>"Hackathon Mode: ON ⚡ (Permanent State)"</b>
     <br>
     <b>"Turning ideas into reality, one commit at a time 🚀"</b>
+    <br>
+    <b>"If it works, it's not a bug, it's a feature ✨"</b>
   </p>
 </div>
 
 ---
 
+<!-- Wavy Color Wave Animation -->
 <div align="center">
-  <sub>Made with ❤️ by Aditya | XOR Member</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF6B9D,4ECDC4,FFD700,FF6B9D&height=150&section=footer&reversal=false&animation=fadeIn" alt="Wave" />
+  
+  <h3>✨ Thanks for visiting my profile! ✨</h3>
+  <p>Feel free to explore, fork, and collaborate. Let's build something amazing together! 🚀</p>
+  
+  <sub>Made with ❤️ by Aditya | XOR Member | Hackathon Enthusiast</sub>
+  <br>
+  <sub>Currently crushing it with AI/ML, Web Dev, and System Design 🔥</sub>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4ECDC4,FF6B9D,FFD700&height=150&section=footer&reversal=true&animation=fadeIn" alt="Wave" />
 </div>
