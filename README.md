@@ -12,7 +12,7 @@
 
 <!-- Epic Pac-Man Game Animation with Commits and PRs -->
 <div align="center">
-<h2>💋 GitHub Contributions & Commit Mastery</h2>
+<h2>;)  GitHub Contributions & Commit Mastery</h2>
   <img src="https://raw.githubusercontent.com/proximaditya/proximaditya/main/pacman-animation.svg" width="350" alt="Contribution animation" />
   <p><i>Chasing commits like a developer on a mission 🚀 | Merging PRs with precision 🌟 | Building the next generation 🚜</i></p>
 </div>
