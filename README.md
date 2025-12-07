@@ -14,53 +14,7 @@
 <div align="center">
 <h2>;)  GitHub Contributions & Commit Mastery</h2>
   <div align="center">
-  <h2>🐟 Advanced Contribution Tracker - Pac-Man Eats Commits</h2>
-  <svg viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto; border-radius: 8px; background: linear-gradient(135deg, #1e1e2e 0%, #2d2d3d 100%);">
-    <style>
-      @keyframes pacmanMove { 0% { transform: translateX(0px); } 25% { transform: translateX(150px); } 50% { transform: translateX(0px); } 75% { transform: translateX(-150px); } 100% { transform: translateX(0px); } }
-      @keyframes mouthOpen { 0%, 100% { clip-path: polygon(50% 0%, 100% 38%, 100% 62%, 50% 100%); } 50% { clip-path: polygon(50% 0%, 85% 25%, 85% 75%, 50% 100%); } }
-      @keyframes dotAppear { 0% { opacity: 1; } 50% { opacity: 1; } 100% { opacity: 0; } }
-      .pacman { animation: pacmanMove 6s infinite ease-in-out; }
-      .mouth { animation: mouthOpen 0.4s infinite; }
-    </style>
-    
-    <!-- Grid Background -->
-    <defs>
-      <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-        <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#444" stroke-width="1" opacity="0.3"/>
-      </pattern>
-    </defs>
-    <rect width="800" height="300" fill="url(#grid)" />
-    
-    <!-- Contribution Dots (to be eaten) -->
-    <g id="dots">
-      <circle cx="100" cy="150" r="8" fill="#22c55e" opacity="0.7" />
-      <circle cx="200" cy="120" r="8" fill="#22c55e" opacity="0.7" />
-      <circle cx="300" cy="180" r="8" fill="#22c55e" opacity="0.7" />
-      <circle cx="400" cy="100" r="8" fill="#22c55e" opacity="0.7" />
-      <circle cx="500" cy="200" r="8" fill="#22c55e" opacity="0.7" />
-      <circle cx="600" cy="130" r="8" fill="#22c55e" opacity="0.7" />
-      <circle cx="700" cy="170" r="8" fill="#22c55e" opacity="0.7" />
-    </g>
-    
-    <!-- Pac-Man Character -->
-    <g class="pacman" transform="translate(300, 150)">
-      <circle cx="0" cy="0" r="20" fill="#FFD700" class="mouth" />
-      <circle cx="-8" cy="-8" r="3" fill="#1e1e2e" /> <!-- Eye -->
-    </g>
-    
-    <!-- Energy Trail -->
-    <g id="trail" opacity="0.3">
-      <circle cx="100" cy="150" r="4" fill="#ff6b6b" />
-      <circle cx="200" cy="120" r="4" fill="#ff6b6b" />
-    </g>
-    
-    <!-- Legend -->
-    <text x="10" y="280" font-size="12" fill="#888">🟡 Pac-Man (eating commits) | 🟢 Contributions | 🔴 Consumed</text>
-  </svg>
-</div>
-
-
+  
   <img src="https://raw.githubusercontent.com/proximaditya/proximaditya/main/pacman-animation.svg" width="350" alt="Contribution animation" />
   <p><i>Chasing commits like a developer on a mission 🚀 | Merging PRs with precision 🌟 | Building the next generation 🚜</i></p>
 </div>
