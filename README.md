@@ -4,9 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Hackathon+Junkie;Pac-Man+Speedrunner;Code+Breaker;Bug+Creator" alt="Typing SVG" />
 </div>
 
-<!-- Pac-Man Animation Effect -->
+<!-- Pac-Man Animation Effect on Contribution Calendar -->
 <div align="center">
-    <img src="https://raw.githubusercontent.com/proximaditya/proximaditya/main/pacman-animation.svg" width="300" alt="Pac-Man Animation" /></div>
+  <img src="https://raw.githubusercontent.com/proximaditya/proximaditya/main/pacman-animation.svg" width="300" alt="Pac-Man Animation" />
+</div>
 
 ---
 
@@ -20,14 +21,20 @@
 🎪 Turn ideas into demos in hours
 ```
 
-## 🛠️ Tech Stack
+---
 
-```
-Languages:     C/C++, Python, JavaScript, Java
-Frameworks:    React, Node.js, Flask, Express
-Tools:         Git, Docker, AWS, GitHub Actions
-Interests:     AI/ML, System Design, Rapid Prototyping
-```
+## 🛠️ My Tech Stack
+
+| Category | Technologies |
+|----------|---------------|
+| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,java" alt="Languages" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" alt="Backend" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" alt="Databases" /> |
+| **Tools & DevOps** | <img src="https://skillicons.dev/icons?i=git,docker,github,linux,vscode" alt="Tools" /> |
+| **Cloud & AI/ML** | <img src="https://skillicons.dev/icons?i=aws,gcp,tensorflow,pytorch" alt="Cloud & AI" /> |
+
+---
 
 ## 🎯 What I'm Into
 
@@ -37,11 +44,24 @@ Interests:     AI/ML, System Design, Rapid Prototyping
 - 🚀 **Full-Stack Development** - Frontend to Database
 - ⚙️ **System Architecture** - The behind-the-scenes magic
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=proximaditya&show_icons=true&theme=radical&hide=contribs,prs" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=proximaditya&theme=radical" alt="GitHub Streak" />
 </div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=proximaditya&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+---
 
 ## 🎪 Hackathon Highlights
 
@@ -49,10 +69,18 @@ Interests:     AI/ML, System Design, Rapid Prototyping
 - Multiple hackathon prizes 🏆
 - Rapid prototyping specialists
 - Weekend warriors who ship products
+- Explored new technologies across:
+  - AI/ML Solutions
+  - Web Applications
+  - System Design
+
+---
 
 ## 📚 Featured Projects
 
 Coming soon... (Setting up the showcase)
+
+---
 
 ## 🤝 Let's Connect
 
@@ -73,6 +101,6 @@ Coming soon... (Setting up the showcase)
 <!-- Fun fact footer -->
 <div align="center">
   
-  <strong>Fun Fact:</strong> I debug code at 3 AM and it somehow works 🤷
+  **Fun Fact:** I debug code at 3 AM and it somehow works 🤷
   
 </div>
