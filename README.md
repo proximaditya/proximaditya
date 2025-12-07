@@ -105,7 +105,7 @@ Turning ideas into reality, one perfect commit at a time. Code is poetry, debugg
 | **API Dev** | RESTful APIs • GraphQL • API Security |
 | **Protocols** | HTTP/HTTPS • WebSockets • gRPC |
 
-### 📱 **Mobile Development**
+###  **App Development**
 | Category | Technologies |
 |----------|---------------|
 | **Mobile** | <img src="https://skillicons.dev/icons?i=androidstudio,flutter" alt="Mobile" /> |
