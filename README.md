@@ -166,7 +166,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-chourasia09)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/proximaditya)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.work.00@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.chourasia.work@gmail.com)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
   
 </div>
@@ -178,7 +178,7 @@
 <div align="center">
   <h3>🎯 The Legend Says:</h3>
   <p>
-    <b>"Debug code at 3 AM and it somehow works 👑"</b>
+    <b>"Debug code at 3 AM and it somehow works 🍻"</b>
     <br>
     <b>"Hackathon Mode: ON ⚡ (Permanent State)"</b>
     <br>
@@ -190,7 +190,7 @@
 
   
   <h3>✨ Thanks for visiting my profile! ✨</h3>
-  <p>Feel free to explore, fork, and collaborate. Let's build something amazing together! 🚀</p>
+  <p>Feel free to explore, fork, and collaborate. Let's build something amazing together! 😊</p>
   
 <sub>Crafted with ❤️ by Aditya | Built for the Developer Community</sub> 
   <sub>Currently crushing it with AI/ML, Web Dev, and System Design 🔥</sub>
