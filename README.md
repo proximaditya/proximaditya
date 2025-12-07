@@ -88,7 +88,7 @@ Turning ideas into reality, one perfect commit at a time. Code is poetry, debugg
 | Category | Technologies |
 |----------|---------------|
 | **Version Control** | <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="VC" /> |
-| **Deployment** | <img src="https://skillicons.dev/icons?i=vercel,netlify,docker,aws,gcp" alt="Deployment" /> |
+| **Deployment** | <img src="https://skillicons.dev/icons?i=vercel,netlify,docker,aws,gcp,cloudflare,azure" alt="Deployment" /> |
 | **CI/CD & Tools** | <img src="https://skillicons.dev/icons?i=githubactions,jenkins,vscode,linux,bash" alt="CI/CD" /> |
 
 ### 🤖 **AI/ML & Data Science**
@@ -104,6 +104,11 @@ Turning ideas into reality, one perfect commit at a time. Code is poetry, debugg
 | **Authentication** | JWT • OAuth2 • Session Management |
 | **API Dev** | RESTful APIs • GraphQL • API Security |
 | **Protocols** | HTTP/HTTPS • WebSockets • gRPC |
+
+### 📱 **Mobile Development**
+| Category | Technologies |
+|----------|---------------|
+| **Mobile** | <img src="https://skillicons.dev/icons?i=androidstudio,flutter" alt="Mobile" /> |
 
 ---
 
