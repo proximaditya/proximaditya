@@ -170,7 +170,7 @@ Turning ideas into reality, one perfect commit at a time. Code is poetry, debugg
 ## 📚 Featured Projects
 
 <div align="center">
-  <p><i>🚀 Coming soon... (Building the next unicorn startup) 🦄</i></p>
+  <p><i>🚀 Coming soon... (Building the next...) </i></p>
   <p><b>Currently shipping:</b> Multiple AI/ML experiments + Full-stack web projects</p>
 </div>
 
@@ -192,6 +192,7 @@ Turning ideas into reality, one perfect commit at a time. Code is poetry, debugg
 ## 🎮 Developer Vibes & Random Facts
 
 <div align="center">
+  <br>
   <h3>🎯 The Legend Says:</h3>
   <p>
     <b>"Debug code at 3 AM and it somehow works 🍻"</b>
@@ -203,13 +204,15 @@ Turning ideas into reality, one perfect commit at a time. Code is poetry, debugg
     <b>"If it works, it's not a bug, it's a feature ✨"</b>
   </p>
 </div>
+<br>
+<br>
+<br>
 
-  
   <h3>✨ Thanks for visiting my profile! ✨</h3>
   <p>Feel free to explore, fork, and collaborate. Let's build something amazing together! 😊</p>
   
-<sub>Crafted with ❤️ by Aditya | Built for the Developer Community</sub> 
-  <sub>Currently crushing it with AI/ML, Web Dev, and System Design 🔥</sub>
+<sub>Crafted with ❤️ by Aditya |  Sharing experiments with the dev world</sub> 
+  <sub>Currently crushing it with AI/ML, Web Dev, DSA & System Design 🔥</sub>
 </div>
 
 <div align="center">
