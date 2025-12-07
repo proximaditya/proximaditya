@@ -1,0 +1,38 @@
+<svg viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes pacman-move {
+        0% { transform: translateX(-50px); }
+        50% { transform: translateX(350px); }
+        100% { transform: translateX(-50px); }
+      }
+      
+      @keyframes mouth-open {
+        0%, 100% { clip-path: polygon(50% 50%, 0% 0%, 0% 100%); }
+        50% { clip-path: polygon(50% 50%, 0% 25%, 0% 75%); }
+      }
+      
+      .pacman {
+        animation: pacman-move 3s infinite;
+      }
+      
+      .pacman-body {
+        animation: mouth-open 0.3s infinite;
+      }
+    </style>
+  </defs>
+  
+  <!-- Pellets -->
+  <circle cx="100" cy="50" r="3" fill="#FFB6C1"/>
+  <circle cx="150" cy="50" r="3" fill="#FFB6C1"/>
+  <circle cx="200" cy="50" r="3" fill="#FFB6C1"/>
+  <circle cx="250" cy="50" r="3" fill="#FFB6C1"/>
+  <circle cx="300" cy="50" r="3" fill="#FFB6C1"/>
+  
+  <!-- Pac-Man -->
+  <g class="pacman">
+    <circle class="pacman-body" cx="50" cy="50" r="20" fill="#FFD700"/>
+    <!-- Eye -->
+    <circle cx="45" cy="45" r="2" fill="#000"/>
+  </g>
+</svg>
