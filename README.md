@@ -1,25 +1,50 @@
-# 🎮 Hey, I'm Aditya!
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Hackathon+Junkie;Pac-Man+Speedrunner;Code+Breaker;Bug+Creator" alt="Typing SVG" />
+  <h1>👋 Hey, I'm Aditya!</h1>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hackathon+Junkie;Pac-Man+Speedrunner;Code+Breaker;Bug+Creator;Team+XOR+Member" alt="Typing SVG" />
+  </p>
 </div>
 
-<!-- Pac-Man Animation Effect on Contribution Calendar -->
+<!-- Pac-Man Animation Effect -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/proximaditya/proximaditya/main/pacman-animation.svg" width="300" alt="Pac-Man Animation" />
+  <img src="https://raw.githubusercontent.com/proximaditya/proximaditya/main/pacman-animation.svg" width="280" alt="Pac-Man Animation" />
+</div>
+
+<!-- Stats and Links -->
+<div align="center">
+  <br>
+  <a href="https://github.com/proximaditya" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/aditya-chourasia09" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aditya.work.00@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/FOLLOWERS-1-blue?style=for-the-badge" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=proximaditya&style=for-the-badge&color=blue" alt="Profile Views" />
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
+  <h2>💬 About Me</h2>
+</div>
+
+<div align="left">
 
 ```
 💻 Romantic about clean code
-🎯 Toxic in commit messages
+🎯 Toxic in commit messages  
 ⚡ Allergic to boring solutions
 🏆 Team XOR: Multi-Prize Hackathon Winner
 🎪 Turn ideas into demos in hours
+🚀 Speed Runner in Hackathons
 ```
+
+</div>
 
 ---
 
@@ -38,11 +63,15 @@
 
 ## 🎯 What I'm Into
 
-- 🔥 **Hackathons** - Where ideas meet caffeine
-- 🤖 **AI/ML Projects** - Training machines to be smarter than me
-- 💎 **Clean Code** - Making future me proud
-- 🚀 **Full-Stack Development** - Frontend to Database
-- ⚙️ **System Architecture** - The behind-the-scenes magic
+<div align="left">
+
+- 🔥 **Hackathons** - Where ideas meet caffeine and sleep becomes a legend
+- 🤖 **AI/ML Projects** - Teaching machines to be smarter than bugs in my code
+- 💎 **Clean Code** - Making future me proud (and less confused)
+- 🚀 **Full-Stack Development** - From pixels to databases, I got it
+- ⚙️ **System Architecture** - The behind-the-scenes magic that makes things go "brrr"
+
+</div>
 
 ---
 
@@ -65,20 +94,27 @@
 
 ## 🎪 Hackathon Highlights
 
-**Team XOR** - The code rebels:
-- Multiple hackathon prizes 🏆
-- Rapid prototyping specialists
-- Weekend warriors who ship products
-- Explored new technologies across:
-  - AI/ML Solutions
-  - Web Applications
-  - System Design
+<div align="left">
+
+### **Team XOR** - The code rebels:
+- 🏆 **Multiple hackathon prizes** 
+- ⚡ **Rapid prototyping specialists**
+- 🎯 **Weekend warriors who ship products**
+- 🔬 **Explored cutting-edge technologies:**
+  - 🤖 AI/ML Solutions
+  - 🌐 Web Applications
+  - 🏗️ System Design
+  - 📱 Mobile Apps
+
+</div>
 
 ---
 
 ## 📚 Featured Projects
 
-Coming soon... (Setting up the showcase)
+<div align="center">
+  <p><i>Coming soon... (Setting up the showcase of epic builds) 🚀</i></p>
+</div>
 
 ---
 
@@ -95,12 +131,18 @@ Coming soon... (Setting up the showcase)
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=proximaditya&style=flat-square&color=blue" alt="Profile views" />
+  <h2>🎮 Fun Facts</h2>
+  <p>
+    <b>"Debug code at 3 AM and it somehow works 🤷"</b>
+    <br>
+    <b>"Hackathon Mode: ON ⚡"</b>
+    <br>
+    <b>"Turning ideas into reality, one commit at a time 🚀"</b>
+  </p>
 </div>
 
-<!-- Fun fact footer -->
+---
+
 <div align="center">
-  
-  **Fun Fact:** I debug code at 3 AM and it somehow works 🤷
-  
+  <sub>Made with ❤️ by Aditya | XOR Member</sub>
 </div>
