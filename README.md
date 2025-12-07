@@ -6,8 +6,7 @@
 
 <!-- Pac-Man Animation Effect -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/proximaditya/proximaditya/main/pacman-animation.gif" width="300" alt="Pac-Man Animation" />
-</div>
+    <img src="https://raw.githubusercontent.com/proximaditya/proximaditya/main/pacman-animation.svg" width="300" alt="Pac-Man Animation" /></div>
 
 ---
 
