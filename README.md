@@ -188,17 +188,11 @@
   </p>
 </div>
 
----
-
-<!-- Wavy Color Wave Animation -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF6B9D,4ECDC4,FFD700,FF6B9D&height=150&section=footer&reversal=false&animation=fadeIn" alt="Wave" />
   
   <h3>✨ Thanks for visiting my profile! ✨</h3>
   <p>Feel free to explore, fork, and collaborate. Let's build something amazing together! 🚀</p>
   
-  <sub>Made with ❤️ by Aditya | XOR Member | Hackathon Enthusiast</sub>
-  <br>
+<sub>Crafted with ❤️ by Aditya | Built for the Developer Community</sub> 
   <sub>Currently crushing it with AI/ML, Web Dev, and System Design 🔥</sub>
 </div>
 
