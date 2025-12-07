@@ -12,9 +12,10 @@
 
 <!-- Epic Pac-Man Game Animation with Commits and PRs -->
 <div align="center">
-  <h2>🎮 The Commit Quest: A Pac-Man Adventure 👾</h2>
-  <img src="https://raw.githubusercontent.com/proximaditya/proximaditya/main/pacman-animation.svg" width="350" alt="Pac-Man chasing commits" />
-  <p><i>Pac-Man hunting for commits 🟡 while dodging PR bots 🤖 and collecting pull requests 📥</i></p>
+<h2>💋 GitHub Contributions & Commit Mastery</h2>
+  <img src="https://raw.githubusercontent.com/proximaditya/proximaditya/main/pacman-animation.svg" width="350" alt="Contribution animation" />
+  <p><i>Chasing commits like a developer on a mission 🚀 | Merging PRs with precision 🌟 | Building the next generation 🚜</i></p>
+</div>
 </div>
 
 ---
@@ -45,13 +46,13 @@
 <div align="left">
 
 ```
-💻 Romantic about clean code & architecture
-🎯 Toxic in commit messages (sorry, not sorry)
-⚡ Allergic to boring solutions
-🏆 Team XOR: Multi-Prize Hackathon Champion
-🎪 Turn ideas into demos in hours
-🚀 Speed Runner in Hackathons & Coding Challenges
-🔥 Passionate about building "the next big thing"
+💻 **Code Architect** - Building beautiful, scalable solutions
+🎯 **Problem Solver** - Toxic in commit messages, therapeutic in code reviews
+⚡ **Innovation Junkie** - Allergic to boring tech stacks
+🏆 **Hackathon Champion** - Multi-prize winner with Team XOR | Shipping MVPs at lightning speed
+🚀 **Full-Stack Developer** - From frontend pixels to backend logic, I own it all
+🌟 **Tech Explorer** - Always experimenting with AI/ML, new frameworks, cutting-edge tech
+🔥 **Passion-Driven** - Turning ideas into reality, one perfect commit at a time
 ```
 
 </div>
