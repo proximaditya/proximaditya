@@ -144,7 +144,7 @@ Turning ideas into reality, one perfect commit at a time. Code is poetry, debugg
 ## 🏆 GitHub Trophies & Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=proximaditya&theme=radical&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=proximaditya&theme=radical&no-frame=true&margin-w=15&row=1"&column=6 alt="GitHub Trophies" />
 </div>
 
 ---
