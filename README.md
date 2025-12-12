@@ -141,22 +141,36 @@ Turning ideas into reality, one perfect commit at a time. Code is poetry, debugg
 
 ---
 
-## 🏆 GitHub Trophies & Achievements
+## 🏆 Achievements & Recognition
 
-<div align="center">
-  <details open>
-<summary><h3>🏆 My Achievements & Trophies</h3></summary>
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 15px; margin-top: 15px;">
+  <img src="" alt="Trophies" />
+</div>
 
-- 🥇 **Multiple Hackathon Victories** - Team XOR champion
-- ⭐ **Open Source Contributions** - Active developer across various projects
-- 🚀 **Innovation Leader** - Pioneering AI/ML solutions
-- 🎯 **Problem Solver** - 1000+ issues resolved
-- 💡 **Tech Mentor** - Helping developers grow
-- 🔥 **Consistent Contributor** - Year-round dedication
-- 🌟 **Code Quality Champion** - Clean, maintainable code
-- 🏅 **Full-Stack Master** - Expert across the stack
-
-</details></div>
+<table style="width: 100%; border-collapse: collapse;">
+  <tr style="background-color: #0d1117;">
+    <td style="border: 1px solid #30363d; padding: 20px; text-align: center; width: 25%; border-radius: 10px;">
+      <div style="font-size: 48px; margin-bottom: 10px;">🥇</div>
+      <h3 style="color: #fff; margin: 0 0 10px 0;">Hackathon Champion</h3>
+      <p style="color: #8b949e; font-size: 14px; margin: 0;">Multiple competitions & Team XOR victories</p>
+    </td>
+    <td style="border: 1px solid #30363d; padding: 20px; text-align: center; width: 25%; border-radius: 10px;">
+      <div style="font-size: 48px; margin-bottom: 10px;">⭐</div>
+      <h3 style="color: #fff; margin: 0 0 10px 0;">Open Source Master</h3>
+      <p style="color: #8b949e; font-size: 14px; margin: 0;">Active contributor across various projects</p>
+    </td>
+    <td style="border: 1px solid #30363d; padding: 20px; text-align: center; width: 25%; border-radius: 10px;">
+      <div style="font-size: 48px; margin-bottom: 10px;">🚀</div>
+      <h3 style="color: #fff; margin: 0 0 10px 0;">Innovation Leader</h3>
+      <p style="color: #8b949e; font-size: 14px; margin: 0;">Pioneering AI/ML solutions & cutting-edge tech</p>
+    </td>
+    <td style="border: 1px solid #30363d; padding: 20px; text-align: center; width: 25%; border-radius: 10px;">
+      <div style="font-size: 48px; margin-bottom: 10px;">💻</div>
+      <h3 style="color: #fff; margin: 0 0 10px 0;">Full-Stack Expert</h3>
+      <p style="color: #8b949e; font-size: 14px; margin: 0;">Master from pixels to databases</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
