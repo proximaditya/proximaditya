@@ -144,8 +144,19 @@ Turning ideas into reality, one perfect commit at a time. Code is poetry, debugg
 ## 🏆 GitHub Trophies & Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=proximaditya&theme=radical&no-frame=true&margin-w=15&row=1"&column=6 alt="GitHub Trophies" />
-</div>
+  <details open>
+<summary><h3>🏆 My Achievements & Trophies</h3></summary>
+
+- 🥇 **Multiple Hackathon Victories** - Team XOR champion
+- ⭐ **Open Source Contributions** - Active developer across various projects
+- 🚀 **Innovation Leader** - Pioneering AI/ML solutions
+- 🎯 **Problem Solver** - 1000+ issues resolved
+- 💡 **Tech Mentor** - Helping developers grow
+- 🔥 **Consistent Contributor** - Year-round dedication
+- 🌟 **Code Quality Champion** - Clean, maintainable code
+- 🏅 **Full-Stack Master** - Expert across the stack
+
+</details></div>
 
 ---
 
