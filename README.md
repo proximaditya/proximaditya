@@ -129,10 +129,6 @@ Turning ideas into reality, one perfect commit at a time. Code is poetry, debugg
 
 ## 📊 GitHub Analytics Dashboard
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=proximaditya&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=proximaditya&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=proximaditya&theme=radical&hide_border=true" alt="Activity Graph" />
