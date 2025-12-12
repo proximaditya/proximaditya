@@ -143,8 +143,7 @@ Turning ideas into reality, one perfect commit at a time. Code is poetry, debugg
 ## 🏆 Achievements & Recognition
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 15px; margin-top: 15px;">
-<img src="https://github-readme-trophy.vercel.app/?username=proximaditya&theme=outrun&no-bg=true&margin-w=15&row=1&column=6" alt="GitHub Trophy" />
-<table style="width: 100%; border-collapse: collapse;">
+<img src="https://github-readme-trophy.vercel.app/?username=proximaditya&theme=onestar&no-frame=false&no-bg=false&margin-w=15&row=1&column=6&bg_color=0f0f0f&title_color=ffd700&text_color=ffffff&icon_color=ffd700&border_color=ffd700" alt="Gold Trophies" /><table style="width: 100%; border-collapse: collapse;">
   <tr style="background-color: #0d1117;">
     <td style="border: 1px solid #30363d; padding: 20px; text-align: center; width: 25%; border-radius: 10px;">
       <div style="font-size: 48px; margin-bottom: 10px;">🥇</div>
