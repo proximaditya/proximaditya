@@ -131,6 +131,9 @@ Turning ideas into reality, one perfect commit at a time. Code is poetry, debugg
 
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=proximaditya&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0f0f0f&text_color=ffffff&title_color=ffd700&icon_color=ffd700&border_color=ffd700" alt="GitHub Stats" />
+</div>
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=proximaditya&theme=radical&hide_border=true" alt="Activity Graph" />
 </div>
 
