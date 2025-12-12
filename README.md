@@ -14,8 +14,7 @@
   <div align="center">
   
   <img src="https://raw.githubusercontent.com/proximaditya/proximaditya/main/pacman-animation.svg" width="350" alt="Contribution animation" />
-  <p><i>Chasing commits like a developer on a mission 🚀 | Merging PRs with precision 🌟 | Building the next generation 🚜</i></p>
-</div>
+<p><b>Architect</b></p></div>
 </div>
 
 ---
