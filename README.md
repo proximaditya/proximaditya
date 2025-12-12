@@ -54,7 +54,7 @@ Building beautiful, scalable solutions with clean architecture. From pixels to s
 ### 🎯 **Problem Solver**  
 Toxic in commit messages, therapeutic in code reviews. Breaking problems into elegant solutions.
 
-### ⚡ **Innovation Junkie**  
+### ⚡ **Catalyst Architect**  
 Allergic to boring tech stacks. Always experimenting with the latest frameworks and cutting-edge tech.
 
 ### 🏆 **Hackathon Champion**  
@@ -108,8 +108,7 @@ Turning ideas into reality, one perfect commit at a time. Code is poetry, debugg
 ###  **App Development**
 | Category | Technologies |
 |----------|---------------|
-| **Mobile** | <img src="https://skillicons.dev/icons?i=androidstudio,flutter" alt="Mobile" /> |
-
+| **Mobile** | <img src="https://skillicons.dev/icons?i=androidstudio,flutter,reactnative,expo" alt="Mobile" /> |
 ---
 
 ## 🎯 What I'm Into
