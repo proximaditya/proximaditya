@@ -173,29 +173,6 @@ Turning ideas into reality, one perfect commit at a time. Code is poetry, debugg
 </table>
 
 ---
-
-## 🎪 Hackathon Highlights
-
-<div align="left">
-
-### **Team XOR** - The Code Rebels & Innovation Squad 🔥
-- 🏆 **Multiple Hackathon Prizes** across different competitions
-- ⚡ **Rapid Prototyping Specialists** - Ship MVPs at lightning speed
-- 🎯 **Weekend Warriors** - Turn ideas into production in 48 hours
-- 🚀 **Tech Explorers** - Always experimenting with cutting-edge tech
-
-**Explored Technologies:**
-- 🤖 AI/ML Solutions (LLMs, RAG, Computer Vision)
-- 🌐 Full-Stack Web Applications
-- 🏗️ System Design & Architecture
-- 📱 Mobile Apps (Cross-platform)
-- ☁️ Cloud-Native Development
-- 🔐 Security-First Development
-
-</div>
-
----
-
 ## 📚 Featured Projects
 
 <div align="center">
