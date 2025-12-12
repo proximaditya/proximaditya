@@ -143,8 +143,7 @@ Turning ideas into reality, one perfect commit at a time. Code is poetry, debugg
 ## 🏆 Achievements & Recognition
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 15px; margin-top: 15px;">
-  <img src="" alt="Trophhttps://github-profile-trophy.vercel.app/?username=proximaditya&theme=radical&no-frame=true&margin-w=15&row=1&column=6ies" />
-</div>
+<img src="https://github-readme-trophy.vercel.app/?username=proximaditya&theme=nord&no-frame=true&margin-w=15&row=1&column=6" alt="GitHub Trophy" /></div>
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr style="background-color: #0d1117;">
@@ -197,9 +196,7 @@ Turning ideas into reality, one perfect commit at a time. Code is poetry, debugg
 ## 🎮 Developer Vibes & Random Facts
 
 <div align="center">
-  <br>
-  <h3>🎯 The Legend Says:</h3>
-  <p>
+  <br>  <p>
     <b>"Debug code at 3 AM and it somehow works 🍻"</b>
     <br>
     <b>"Hackathon Mode: ON ⚡ (Permanent State)"</b>
