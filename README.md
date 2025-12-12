@@ -144,7 +144,7 @@ Turning ideas into reality, one perfect commit at a time. Code is poetry, debugg
 ## 🏆 Achievements & Recognition
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 15px; margin-top: 15px;">
-  <img src="" alt="Trophies" />
+  <img src="" alt="Trophhttps://github-profile-trophy.vercel.app/?username=proximaditya&theme=radical&no-frame=true&margin-w=15&row=1&column=6ies" />
 </div>
 
 <table style="width: 100%; border-collapse: collapse;">
