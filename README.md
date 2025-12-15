@@ -47,26 +47,10 @@
 <div align="center" style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); padding: 25px; border-radius: 12px; border-left: 4px solid #667eea;">
   <div align="left" style="max-width: 600px; margin: 0 auto;">
 
-### 🚀 **Code Architect**  
-Building beautiful, scalable solutions with clean architecture. From pixels to servers, I own it all.
+I live in the messy middle between rigorous system architecture and experimental AI. I love breaking things to see how they work and rebuilding them to be faster, smarter, and cleaner.
 
-### 🎯 **Problem Solver**  
-Toxic in commit messages, therapeutic in code reviews. Breaking problems into elegant solutions.
+I treat engineering as a craft, not a checklist. Whether I'm rapid-prototyping a wild idea or structuring a complex backend, I'm always chasing the cleanest path from "idea" to "deployed" — writing code that actually makes sense.
 
-### ⚡ **Catalyst Architect**  
-Allergic to boring tech stacks. Always experimenting with the latest frameworks and cutting-edge tech.
-
-### 🏆 **Hackathon Champion**  
-Multi-prize winner with Team XOR. Shipping MVPs at lightning speed—48 hours, infinite possibilities.
-
-### 🚀 **Full-Stack Developer**  
-From React to Node, MongoDB to AWS. Complete ownership of the entire stack, end-to-end.
-
-### 🌟 **Tech Explorer**  
-AI/ML, LLMs, RAG systems, Computer Vision. Always pushing boundaries with emerging tech.
-
-### 🔥 **Passion-Driven**  
-Turning ideas into reality, one perfect commit at a time. Code is poetry, debugging is meditation.
 
   </div>
 </div>
