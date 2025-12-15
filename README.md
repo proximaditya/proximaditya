@@ -1,53 +1,75 @@
-# Aditya
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFD700,FF6B9D,4ECDC4&height=250&section=header&text=👋%20Hey,%20I'm%20Aditya!&fontSize=60&fontColor=fff&animation=twinkling&stroke=2&strokeColor=fff" alt="Header" />
+</div>
 
-Full-stack engineer focused on scalable web applications and AI integration. Based in Noida, India.
+<div align="center">
+  <p>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=🎮+Hackathon+Junkie;🤝+Active+Collaborator;💀+Code+Breaker;🤖+AI+%26+LLM+Tinkerer;⚡+Always-in-Queue+for+Next+Hackathon" alt="Typing SVG" /></div>
 
-## About
+---
 
-I build complete software solutions across the stack—from frontend interfaces to backend systems to cloud infrastructure. My current focus is integrating advanced AI capabilities into production applications, particularly with large language models and retrieval-augmented generation systems. I have experience shipping features across React/Node applications and have worked on AI/ML projects involving computer vision, neural networks, and modern ML frameworks.
+<!-- Epic Pac-Man Game Animation with Commits and PRs -->
+<div align="center">
+<h2>;)  GitHub Contributions & Commit Mastery</h2>
+  <div align="center">
+  
+  <img src="https://raw.githubusercontent.com/proximaditya/proximaditya/main/pacman-animation.svg" width="350" alt="Contribution animation" />
+<p><b>Architect</b></p></div>
+</div>
 
-Hackathon participant with multiple wins alongside Team XOR. I approach engineering with an emphasis on clean architecture and deliberate design decisions.
+---
 
-## Core Skills
+<!-- Stats and Links -->
+<div align="center">
+  <br>
+  <a href="https://github.com/proximaditya" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/aditya-chourasia09" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+<a href="mailto:aditya.chourasia.work@gmail.com" target="_blank">    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/FOLLOWERS-1-blue?style=for-the-badge" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=proximaditya&style=for-the-badge&color=blue" alt="Profile Views" />
+</div>
 
-### Languages & Frontend
-- **Languages:** JavaScript, TypeScript, Python, Java, C/C++
-- **Frontend:** React, Next.js, HTML/CSS, Tailwind CSS
+---
 
-### Backend & Databases
-- **Server-side:** Node.js, Express, FastAPI, Flask, Deno
-- **Databases:** MongoDB, PostgreSQL, MySQL, Supabase, Firebase
+<div align="center">
+  <div align="center">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 15px;">
+    <h2 style="margin: 0; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 28px;">💬 About Me</h2>
+  </div>
+</div>
 
-### DevOps & Cloud
-- **Cloud Platforms:** AWS, GCP, Azure, Cloudflare
-- **Deployment:** Docker, Vercel, Netlify
-- **CI/CD:** GitHub Actions, Jenkins
+<div align="center" style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); padding: 25px; border-radius: 12px; border-left: 4px solid #667eea;">
+  <div align="left" style="max-width: 600px; margin: 0 auto;">
 
-### AI & Machine Learning
-- **Frameworks:** TensorFlow, PyTorch, Scikit-Learn, OpenCV
-- **Specialties:** LLM, RAG Systems, Computer Vision, Neural Networks
-- **Platforms:** Hugging Face, HF Transformers, HF Datasets
+### 🚀 **Code Architect**  
+Building beautiful, scalable solutions with clean architecture. From pixels to servers, I own it all.
 
-### Security & APIs
-- **Authentication:** JWT, OAuth2, Session Management
-- **API Design:** RESTful APIs, GraphQL, WebSockets, gRPC
+### 🎯 **Problem Solver**  
+Toxic in commit messages, therapeutic in code reviews. Breaking problems into elegant solutions.
 
-### Mobile Development
-- **Frameworks:** Flutter, React Native, Android Studio, Expo
+### ⚡ **Catalyst Architect**  
+Allergic to boring tech stacks. Always experimenting with the latest frameworks and cutting-edge tech.
 
-## What I Work On
+### 🏆 **Hackathon Champion**  
+Multi-prize winner with Team XOR. Shipping MVPs at lightning speed—48 hours, infinite possibilities.
 
-- Full-stack web applications with React and Node.js
-- AI/ML projects integrating language models and retrieval systems
-- System design and architecture for scalable applications
-- Computer vision applications
-- Hackathon projects with emphasis on rapid prototyping
+### 🚀 **Full-Stack Developer**  
+From React to Node, MongoDB to AWS. Complete ownership of the entire stack, end-to-end.
 
-## Connect
+### 🌟 **Tech Explorer**  
+AI/ML, LLMs, RAG systems, Computer Vision. Always pushing boundaries with emerging tech.
 
-- [GitHub](https://github.com/proximaditya)
-- [LinkedIn](https://linkedin.com/in/aditya-chourasia09)
-- [Email](mailto:aditya.chourasia.work@gmail.com)
+### 🔥 **Passion-Driven**  
+Turning ideas into reality, one perfect commit at a time. Code is poetry, debugging is meditation.
+
+  </div>
+</div>
 
 ---
 
