@@ -97,14 +97,16 @@ I treat engineering as a craft, not a checklist.
 
 ## 🎯 What I'm Into
 
+### 🎯 What I'm Into
+
 <div align="left">
 
-🚀 Rapid Prototyping & Hackathons - Turning raw concepts into working, functional demos under a tight deadline.
-🧠 LLMs & RAG Systems - Building context-aware AI applications that go beyond simple API wrappers.
-⚙️ Backend & Architecture - Designing systems that are structured, reliable, and easy to maintain.
-👁️ Computer Vision & ML - Training and implementing models to solve real-world visual problems.
-💻 Full-Stack Development - intuitive user interfaces.
-📚 Continuous Learning - Keeping up with new AI research and testing what actually works in practice.
+- 🚀 **Rapid Prototyping & Hackathons** - Turning raw concepts into working, functional demos under a tight deadline.
+- 🧠 **LLMs & RAG Systems** - Building context-aware AI applications that go beyond simple API wrappers.
+- ⚙️ **Backend & Architecture** - Designing systems that are structured, reliable, and easy to maintain.
+- 👁️ **Computer Vision & ML** - Training and implementing models to solve real-world visual problems.
+- 💻 **Full-Stack Development** - Connecting robust databases to clean, intuitive user interfaces.
+- 📚 **Continuous Learning** - Keeping up with new AI research and testing what actually works in practice.
 
 </div>
 
