@@ -4,13 +4,13 @@
 
 <div align="center">
   <p>
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=🎮+Hackathon+Junkie;🤝+Active+Collaborator;💀+Code+Breaker;🤖+AI+%26+LLM+Tinkerer;⚡+Always-in-Queue+for+Next+Hackathon" alt="Typing SVG" /></div>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=while(weekend)+{build()};🤝+Active+Collaborator;Turning+☕️+into+Segmentation+Faults;🤖+AI+%26+LLM+Developer;Training+DNN/ML+models;😉+git+blame+target;⚡+Always-in-Queue+for+Next+Hackathon" alt="Typing SVG" /></div>
 
 ---
 
 <!-- Epic Pac-Man Game Animation with Commits and PRs -->
 <div align="center">
-<h2>;)  GitHub Contributions & Commit Mastery</h2>
+<h2>;)  GitHub Contributions & Commit Experiences</h2>
   <div align="center">
   
   <img src="https://raw.githubusercontent.com/proximaditya/proximaditya/main/pacman-animation.svg" width="350" alt="Contribution animation" />
