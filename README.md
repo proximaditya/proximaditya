@@ -47,7 +47,7 @@
 <div align="center" style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); padding: 25px; border-radius: 12px; border-left: 4px solid #667eea;">
   <div align="left" style="max-width: 600px; margin: 0 auto;">
 
-I'm a student dev interested in AI and backend architecture. I spend a lot of my time taking complex ideas, prototyping them, and figuring out how to build them into clean, working apps. I care about writing readable code, optimizing performance, and actually getting projects out the door.
+I'm a student dev interested in AI and backend architectur, also learning DSA & algo for strong Thinking ability, & will explore LLD. I spend a lot of my time taking complex ideas, prototyping them, and figuring out how to build them into clean, working apps. I care about writing readable code, optimizing performance, and actually getting projects out the door.
 I believe we should always try new things.
 
 I treat engineering as a craft, not a checklist.
