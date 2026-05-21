@@ -47,7 +47,7 @@
 <div align="center" style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); padding: 25px; border-radius: 12px; border-left: 4px solid #667eea;">
   <div align="left" style="max-width: 600px; margin: 0 auto;">
 
-I'm a student dev interested in AI and backend architectur, also learning DSA & algo for strong Thinking ability, & will explore LLD. I spend a lot of my time taking complex ideas, prototyping them, and figuring out how to build them into clean, working apps. I care about writing readable code, optimizing performance, and actually getting projects out the door.
+I'm a student dev interested in AI and backend architecture, also learning DSA & algo for strong Thinking ability, & will explore LLD. I spend a lot of my time taking complex ideas, prototyping them, and figuring out how to build them into clean, working apps. I care about writing readable code, optimizing performance, and actually getting projects out the door.
 I believe we should always try new things.
 
 I treat engineering as a craft, not a checklist.
@@ -99,14 +99,12 @@ I treat engineering as a craft, not a checklist.
 
 <div align="left">
 
-- 🔥 **Hackathons** - Where ideas meet caffeine and sleep becomes a legend
-- 🤖 **AI/ML Projects** - Teaching machines to be smarter than bugs in my code
-- 🧠 **LLM & RAG Systems** - Building intelligent agents that actually understand context
-- 💎 **Clean Code** - Making future me proud (and less confused)
-- 🚀 **Full-Stack Development** - From pixels to databases, I got it all
-- ⚙️ **System Architecture** - The behind-the-scenes magic that makes things go "brrr"
-- 👁️ **Computer Vision** - Making machines see and understand
-- 🌊 **Cutting-Edge AI** - Always exploring what's new on arXiv
+🚀 Rapid Prototyping & Hackathons - Turning raw concepts into working, functional demos under a tight deadline.
+🧠 LLMs & RAG Systems - Building context-aware AI applications that go beyond simple API wrappers.
+⚙️ Backend & Architecture - Designing systems that are structured, reliable, and easy to maintain.
+👁️ Computer Vision & ML - Training and implementing models to solve real-world visual problems.
+💻 Full-Stack Development - intuitive user interfaces.
+📚 Continuous Learning - Keeping up with new AI research and testing what actually works in practice.
 
 </div>
 
@@ -128,32 +126,34 @@ I treat engineering as a craft, not a checklist.
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 15px; margin-top: 15px;">
 <img src="https://github-readme-trophy.vercel.app/?username=proximaditya&theme=onestar&no-frame=false&no-bg=false&margin-w=15&row=1&column=6&bg_color=0f0f0f&title_color=ffd700&text_color=ffffff&icon_color=ffd700&border_color=ffd700" alt="Gold Trophies" /><table style="width: 100%; border-collapse: collapse;">
+  <br>
+</br>
   <tr style="background-color: #0d1117;">
     <td style="border: 1px solid #30363d; padding: 20px; text-align: center; width: 25%; border-radius: 10px;">
       <div style="font-size: 48px; margin-bottom: 10px;">🥇</div>
-      <h3 style="color: #fff; margin: 0 0 10px 0;">Hackathon Champion</h3>
+      <h3 style="color: #fff; margin: 0 0 10px 0;">Hackathon Winner</h3>
       <p style="color: #8b949e; font-size: 14px; margin: 0;">Multiple competitions & Team XOR victories</p>
     </td>
     <td style="border: 1px solid #30363d; padding: 20px; text-align: center; width: 25%; border-radius: 10px;">
       <div style="font-size: 48px; margin-bottom: 10px;">⭐</div>
-      <h3 style="color: #fff; margin: 0 0 10px 0;">Open Source Master</h3>
-      <p style="color: #8b949e; font-size: 14px; margin: 0;">Active contributor across various projects</p>
+      <h3 style="color: #fff; margin: 0 0 10px 0;">Open Source Contributor</h3>
+      <p style="color: #8b949e; font-size: 14px; margin: 0;">Interested in contributing to community projects</p>
     </td>
     <td style="border: 1px solid #30363d; padding: 20px; text-align: center; width: 25%; border-radius: 10px;">
-      <div style="font-size: 48px; margin-bottom: 10px;">🚀</div>
-      <h3 style="color: #fff; margin: 0 0 10px 0;">Innovation Leader</h3>
-      <p style="color: #8b949e; font-size: 14px; margin: 0;">Pioneering AI/ML solutions & cutting-edge tech</p>
+      <div style="font-size: 48px; margin-bottom: 10px;">🔬</div>
+      <h3 style="color: #fff; margin: 0 0 10px 0;">Deep Learning Research</h3>
+      <p style="color: #8b949e; font-size: 14px; margin: 0;">Taking an innovative approach to AI at college</p>
     </td>
     <td style="border: 1px solid #30363d; padding: 20px; text-align: center; width: 25%; border-radius: 10px;">
       <div style="font-size: 48px; margin-bottom: 10px;">💻</div>
-      <h3 style="color: #fff; margin: 0 0 10px 0;">Full-Stack Expert</h3>
-      <p style="color: #8b949e; font-size: 14px; margin: 0;">Master from pixels to databases</p>
+      <h3 style="color: #fff; margin: 0 0 10px 0;">Full-Stack Developer</h3>
+      <p style="color: #8b949e; font-size: 14px; margin: 0;">Building end-to-end, from database to UI</p>
     </td>
   </tr>
 </table>
-
+<br></br>
 ---
-## 📚 Featured Projects
+ 📚 Featured Projects
 
 <div align="center">
   <p><i>🚀 Coming soon... (Building the next...) </i></p>
@@ -181,9 +181,9 @@ I treat engineering as a craft, not a checklist.
   <br>  <p>
     <b>"Debug code at 3 AM and it somehow works 🍻"</b>
     <br>
-    <b>"Hackathon Mode: ON ⚡ (Permanent State)"</b>
+    <b>"Hackathon Mode: ON ⚡"</b>
     <br>
-    <b>"Turning ideas into reality, one commit at a time 🚀"</b>
+    <b>"Turning ideas into reality, one commit at a time </b>
     <br>
     <b>"If it works, it's not a bug, it's a feature ✨"</b>
   </p>
@@ -196,7 +196,7 @@ I treat engineering as a craft, not a checklist.
   <p>Feel free to explore, fork, and collaborate. Let's build something amazing together! 😊</p>
   
 <sub>Crafted with ❤️ by Aditya |  Sharing experiments with the dev world</sub> 
-  <sub>Currently crushing it with AI/ML, Web Dev, DSA & System Design 🔥</sub>
+  <sub>Currently working on with AI/ML, Web Dev, DSA & System Design 🔥</sub>
 </div>
 
 <div align="center">
