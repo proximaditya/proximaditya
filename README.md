@@ -121,10 +121,10 @@ I treat engineering as a craft, not a checklist.
 
 <div align="center">
   <!-- GitHub Stats Card (Switched to a stable alternative mirror) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=proximaditya&theme=radical&v=3" alt="GitHub Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=proximaditya&theme=radical&v=1" alt="GitHub Stats" width="49%" />
   
   <!-- Top Languages Card (Switched to a stable alternative mirror) -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=proximaditya&layout=compact&hide_border=true&theme=radical&v=3" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=proximaditya&layout=compact&hide_border=true&theme=radical&v=1" alt="Top Languages" width="48%" />
 </div>
 
 ---
