@@ -114,9 +114,6 @@ I treat engineering as a craft, not a checklist.
 
 ## 📊 GitHub Analytics Dashboard
 
-
-## 📊 GitHub Analytics Dashboard
-
 <div align="center">
   <!-- Activity Graph (UNTOUCHED) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=proximaditya&theme=radical&hide_border=true" alt="Activity Graph" />
@@ -126,10 +123,10 @@ I treat engineering as a craft, not a checklist.
 
 <div align="center">
   <!-- GitHub Stats Card (Switched to a stable alternative mirror) -->
-  <img src="https://gh-stats.com/api?username=proximaditya&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0f0f0f&title_color=ffd700&icon_color=ffd700&text_color=ffffff" alt="GitHub Stats" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=proximaditya&theme=radical" alt="GitHub Stats" width="49%" />
   
   <!-- Top Languages Card (Switched to a stable alternative mirror) -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=proximaditya&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=proximaditya&layout=compact&hide_border=true&theme=radical" alt="Top Languages" width="48%" />
 </div>
 
 ---
@@ -137,7 +134,7 @@ I treat engineering as a craft, not a checklist.
 ## 🏆 Achievements & Recognition
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 15px; margin-top: 15px;">
-<img src="https://github-readme-trophy.vercel.app/?username=proximaditya&theme=onestar&no-frame=false&no-bg=false&margin-w=15&row=1&column=6&bg_color=0f0f0f&title_color=ffd700&text_color=ffffff&icon_color=ffd700&border_color=ffd700" alt="Gold Trophies" /><table style="width: 100%; border-collapse: collapse;">
+<img src="https://github-profile-trophy.deno.dev/?username=proximaditya&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Gold Trophies" /><table style="width: 100%; border-collapse: collapse;">
   <br>
 </br>
   <tr style="background-color: #0d1117;">
