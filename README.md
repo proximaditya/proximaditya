@@ -97,8 +97,6 @@ I treat engineering as a craft, not a checklist.
 
 ## 🎯 What I'm Into
 
-### 🎯 What I'm Into
-
 <div align="left">
 
 - 🚀 **Rapid Prototyping & Hackathons** - Turning raw concepts into working, functional demos under a tight deadline.
