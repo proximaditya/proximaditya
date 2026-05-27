@@ -115,14 +115,21 @@ I treat engineering as a craft, not a checklist.
 ## 📊 GitHub Analytics Dashboard
 
 
+## 📊 GitHub Analytics Dashboard
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=proximaditya&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0f0f0f&text_color=ffffff&title_color=ffd700&icon_color=ffd700&border_color=ffd700" alt="GitHub Stats" />
-</div>
-<div align="center">
+  <!-- Activity Graph (UNTOUCHED) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=proximaditya&theme=radical&hide_border=true" alt="Activity Graph" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proximaditya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+<br>
+
+<div align="center">
+  <!-- GitHub Stats Card (Switched to a stable alternative mirror) -->
+  <img src="https://gh-stats.com/api?username=proximaditya&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0f0f0f&title_color=ffd700&icon_color=ffd700&text_color=ffffff" alt="GitHub Stats" width="48%" />
+  
+  <!-- Top Languages Card (Switched to a stable alternative mirror) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=proximaditya&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </div>
 
 ---
