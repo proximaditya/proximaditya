@@ -132,7 +132,7 @@ I treat engineering as a craft, not a checklist.
 ## 🏆 Achievements & Recognition
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 15px; margin-top: 15px;">
-<img src="https://github-profile-trophy.deno.dev/?username=proximaditya&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&v=3" alt="Gold Trophies" /><table style="width: 100%; border-collapse: collapse;">
+<img src="https://github-profile-trophy.deno.dev/?username=proximaditya&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&v=1" alt="Gold Trophies" /><table style="width: 100%; border-collapse: collapse;">
   <br>
 </br>
   <tr style="background-color: #0d1117;">
