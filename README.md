@@ -122,6 +122,9 @@ I treat engineering as a craft, not a checklist.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=proximaditya&theme=radical&hide_border=true" alt="Activity Graph" />
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proximaditya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+</div>
+
 ---
 
 ## 🏆 Achievements & Recognition
