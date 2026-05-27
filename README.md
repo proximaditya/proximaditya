@@ -121,10 +121,10 @@ I treat engineering as a craft, not a checklist.
 
 <div align="center">
   <!-- GitHub Stats Card (Switched to a stable alternative mirror) -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=proximaditya&theme=radical" alt="GitHub Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=proximaditya&theme=radical&v=3" alt="GitHub Stats" width="49%" />
   
   <!-- Top Languages Card (Switched to a stable alternative mirror) -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=proximaditya&layout=compact&hide_border=true&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=proximaditya&layout=compact&hide_border=true&theme=radical&v=3" alt="Top Languages" width="48%" />
 </div>
 
 ---
@@ -132,7 +132,7 @@ I treat engineering as a craft, not a checklist.
 ## 🏆 Achievements & Recognition
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 15px; margin-top: 15px;">
-<img src="https://github-profile-trophy.deno.dev/?username=proximaditya&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Gold Trophies" /><table style="width: 100%; border-collapse: collapse;">
+<img src="https://github-profile-trophy.deno.dev/?username=proximaditya&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&v=3" alt="Gold Trophies" /><table style="width: 100%; border-collapse: collapse;">
   <br>
 </br>
   <tr style="background-color: #0d1117;">
