@@ -133,7 +133,7 @@ I treat engineering as a craft, not a checklist.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=proximaditya&theme=synthwave&no-frame=true&no-bg=true&margin-w=15&row=1" alt="Gold Trophies" />
+<img src="https://github-profile-trophy-tawny.vercel.app/?username=proximaditya&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" alt="Gold Trophies" />
 
 <br><br>
 
